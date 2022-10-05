@@ -1,7 +1,7 @@
 | Prediction date | Ticker                                                                                       | Prediction date price  | Prediction                                         | Outcome | Outcome date |
 | ----------------|----------------------------------------------------------------------------------------------| -----------------------|----------------------------------------------------|---------|--------------|
 | 09/16/2022      | [NATURALGAS](https://www.tradingview.com/chart/sLP1Ctus/?symbol=CURRENCYCOM%3ANATURALGAS)    | 8.3                    | fall below 7.5 within 3 months                     | ✓       | 09/19/2022
-| 09/16/2022      | [ENPH](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3AENPH)                     | 312                    | bubble bursts, high is reached or almost reached   | ?       |
+| 09/16/2022      | [ENPH](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3AENPH)                     | 312                    | bubble bursts, high is reached or almost reached   | ✓       | 05/10/2022
 | 09/16/2022      | [DAX](https://www.tradingview.com/chart/sLP1Ctus/?symbol=XETR%3ADAX)                         | 13k                    | fall below 12k during German winter                | ✓       | 09/28/2022
 | 09/16/2022      | [NFLX](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3ANFLX)                     | 235                    | have bull run above current level within 1 year    | ?       |
 | 09/16/2022      | [PYPL](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3APYPL)                     | 96                     | have bull run above current level within 1 year    | ?       |
