@@ -8,3 +8,4 @@
 | 09/28/2022      | [DAX](https://www.tradingview.com/chart/sLP1Ctus/?symbol=XETR%3ADAX)                         | 11900                  | fall below 11k during German winter                | ?       |              |
 | 09/30/2022      | [META](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3AMETA)                     | 136                    | above 160 until end of 2023                        | ?       |              |
 | 10/08/2022      | [COP](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NYSE%3ACOP)                         | 118                    | fall below 105 until end of 2023                   | ?       |              |
+| 10/20/2022      | [EURUSD](https://www.tradingview.com/chart/sLP1Ctus/?symbol=FX%3AEURUSD)                     | 0.9825                 | above 1 within 6 months                            | ?       |              |
