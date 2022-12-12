@@ -1,0 +1,3 @@
+| Prediction date | Prediction                                                                                                                                                                        | Outcome | Outcome date |
+| ----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------------|
+| 12/12/2022      | ChatGPT or similar LLM to be used as a search engine, perhaps replacing large parts of Google's functionality within 5 years, as it is much more time efficient for most things   | ?       |              |
