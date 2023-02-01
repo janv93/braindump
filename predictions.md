@@ -11,3 +11,5 @@
 | 10/20/2022      | [EURUSD](https://www.tradingview.com/chart/sLP1Ctus/?symbol=FX%3AEURUSD)                     | 0.9825                 | above 1 within 6 months                            | ✓       | 10/26/2022   |
 | 11/09/2022      | [CVX](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NYSE%3ACVX)                         | 185                    | fall below 160 until end of 2023                   | ?       |              |
 | 11/09/2022      | [XOM](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NYSE%3AXOM)                         | 114                    | fall below 106 until end of 2023                   | ✓       | 12/05/2022   |
+| 02/01/2023      | [RHM](https://www.tradingview.com/chart/sLP1Ctus/?symbol=XETR%3ARHM)                         | 217                    | fall below 185 until end of 2023                   | ?       |              |
+| 02/01/2023      | [AI](https://www.tradingview.com/chart/sLP1Ctus/?symbol=AI)                                  | 19.8                   | above 38 until june 2024                           | ?       |              |
