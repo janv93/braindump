@@ -13,3 +13,4 @@
 | 11/09/2022      | [XOM](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NYSE%3AXOM)                         | 114                    | fall below 106 until end of 2023                   | ✓       | 12/05/2022   |
 | 02/01/2023      | [RHM](https://www.tradingview.com/chart/sLP1Ctus/?symbol=XETR%3ARHM)                         | 217                    | fall below 185 until end of 2023                   | ?       |              |
 | 02/01/2023      | [AI](https://www.tradingview.com/chart/sLP1Ctus/?symbol=AI)                                  | 19.8                   | above 38 until june 2024                           | ?       |              |
+| 02/01/2023      | [TLT](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3ATLT)                       | 109                    | above 130 until end of 2024                        | ?       |              | 
