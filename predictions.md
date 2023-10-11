@@ -4,7 +4,7 @@
 | 09/16/2022      | [ENPH](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3AENPH)                     | 312                    | bubble bursts, high is reached or almost reached   | ✓       | 05/10/2022   |
 | 09/16/2022      | [DAX](https://www.tradingview.com/chart/sLP1Ctus/?symbol=XETR%3ADAX)                         | 13k                    | fall below 12k during German winter                | ✓       | 09/28/2022   |
 | 09/16/2022      | [NFLX](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3ANFLX)                     | 235                    | have bull run above current level within 1 year    | ✓       | 10/18/2022   |
-| 09/16/2022      | [PYPL](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3APYPL)                     | 96                     | have bull run above current level within 1 year    | ?       |              |
+| 09/16/2022      | [PYPL](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3APYPL)                     | 96                     | have bull run above current level within 1 year    | ✗       | 09/16/2023   |
 | 09/28/2022      | [DAX](https://www.tradingview.com/chart/sLP1Ctus/?symbol=XETR%3ADAX)                         | 11900                  | fall below 11k during German winter                | ✗       | 03/20/2023   |
 | 09/30/2022      | [META](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3AMETA)                     | 136                    | above 160 until end of 2023                        | ✓       | 02/01/2022   |
 | 10/08/2022      | [COP](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NYSE%3ACOP)                         | 118                    | fall below 105 until end of 2023                   | ✓       | 02/17/2023   |
