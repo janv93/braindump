@@ -4,7 +4,7 @@
 | 09/16/2022      | [ENPH](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3AENPH)                     | 312                    | bubble bursts, high is reached or almost reached   | ✓       | 05/10/2022   |
 | 09/16/2022      | [DAX](https://www.tradingview.com/chart/sLP1Ctus/?symbol=XETR%3ADAX)                         | 13k                    | fall below 12k during German winter                | ✓       | 09/28/2022   |
 | 09/16/2022      | [NFLX](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3ANFLX)                     | 235                    | have bull run above current level within 1 year    | ✓       | 10/18/2022   |
-| 09/16/2022      | [PYPL](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3APYPL)                     | 96                     | have bull run above current level within 1 year    | ?       |              |
+| 09/16/2022      | [PYPL](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3APYPL)                     | 96                     | have bull run above current level within 1 year    | ✗       | 09/16/2023   |
 | 09/28/2022      | [DAX](https://www.tradingview.com/chart/sLP1Ctus/?symbol=XETR%3ADAX)                         | 11900                  | fall below 11k during German winter                | ✗       | 03/20/2023   |
 | 09/30/2022      | [META](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3AMETA)                     | 136                    | above 160 by end of 2023                           | ✓       | 02/01/2022   |
 | 10/08/2022      | [COP](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NYSE%3ACOP)                         | 118                    | fall below 105 by end of 2023                      | ✓       | 02/17/2023   |
@@ -13,5 +13,5 @@
 | 11/09/2022      | [XOM](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NYSE%3AXOM)                         | 114                    | fall below 106 by end of 2023                      | ✓       | 12/05/2022   |
 | 02/01/2023      | [RHM](https://www.tradingview.com/chart/sLP1Ctus/?symbol=XETR%3ARHM)                         | 217                    | fall below 185 by end of 2023                      | ?       |              |
 | 02/01/2023      | [AI](https://www.tradingview.com/chart/sLP1Ctus/?symbol=AI)                                  | 19.8                   | above 38 by june 2024                              | ✓       | 05/30/2023   |
-| 02/01/2023      | [TLT](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3ATLT)                       | 109                    | above 130 by end of 2024                           | ?       |              |
-| 11/01/2023      | [WLD](https://www.tradingview.com/chart/sLP1Ctus/?symbol=BINANCE%3AWLDUSDT)                  | 1.865                  | above 2 by OpenAI event on November 6th            | ?       | 11/06/2023   |
+| 02/01/2023      | [TLT](https://www.tradingview.com/chart/sLP1Ctus/?symbol=NASDAQ%3ATLT)                       | 109                    | above 130 by end of 2024                           | ?       |              | 
+| 11/01/2023      | [WLD](https://www.tradingview.com/chart/sLP1Ctus/?symbol=BINANCE%3AWLDUSDT)                  | 1.865                  | above 2 by OpenAI event on November 6th 2023       | ?       | 11/06/2023   |
