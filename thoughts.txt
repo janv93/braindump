@@ -80,7 +80,7 @@ energy defined as fundamental sensation that exists at every point in time as ra
 
 numbers are quantification of logic
 
-this is simply understood when looking at on/off boolean causal relationships and scaling up the options, e.g. from asleep/awake to asleep/sleepy/awake to deep sleep/rem/sleepy/well rested/concentrated and so on
+this is simply understood when looking at on/off boolean states/relationships and scaling up the options, e.g. from asleep/awake to asleep/sleepy/awake to deep sleep/rem/sleepy/well rested/concentrated and so on
 
 the precision of the number defines the subtlety of the logical relationship richness, e.g. high precision in neural network weights allows for more precise mapping
 
