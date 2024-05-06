@@ -76,5 +76,17 @@ tendency that the shifting ultimately leads to a state in which no energy is los
 
 energy defined as fundamental sensation that exists at every point in time as range of positive to negative, but also weak to strong, continuous scale, gradual transition
 
+-
+
+numbers are quantification of logic
+
+this is simply understood when looking at on/off boolean causal relationships and scaling up the options, e.g. from asleep/awake to asleep/sleepy/awake to deep sleep/rem/sleepy/well rested/concentrated and so on
+
+the precision of the number defines the subtlety of the logical relationship richness, e.g. high precision in neural network weights allows for more precise mapping
+
+the universe allows for spatial precision down to planck length, which allows for vast precision of logical relationships
+
+neural networks, neither biological nor artificial are anywhere near that precision. LLMs will keep becoming smarter with the same dumb data, evolution will produce larger brains for the same dumb environment
+
 
 
