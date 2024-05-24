@@ -84,7 +84,7 @@ this is simply understood when looking at on/off boolean states/relationships an
 
 the precision of the number defines the subtlety of the logical relationship richness, e.g. high precision in neural network weights allows for more precise mapping
 
-the universe allows for spatial precision down to planck length, which allows for vast precision of logical relationships
+the universe allows for spatial precision down to planck length, which allows for extremely rich level of detail of logical relationships
 
 neural networks, neither biological nor artificial are anywhere near that precision. LLMs will keep becoming smarter with the same dumb data, evolution will produce larger brains for the same dumb environment
 
